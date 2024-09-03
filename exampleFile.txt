@@ -1,1 +1,20 @@
 # salut
+1- create a GIThub account
+2- generate ssh keys
+3- create a new repo in github
+4- create a new folder in the desktop (mkdir)
+5- git clone (url ssh)
+6- go to the CD of the local folder before doing git add/commit/...
+7- git status
+8- git add . and redo git status (for verification)
+9- git commit -m "blablabla"
+10- git push
+11- git pull (bech thez men github lel local)
+
+
+hichamgouia@air-de-hicham desktop % cd GitFolder
+hichamgouia@air-de-hicham GitFolder % git clone git@github.com:hichemg92/testrepo.git
+
+
+use the SSH to link the git folder with the github
+4- 
